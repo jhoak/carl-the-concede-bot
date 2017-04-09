@@ -12,5 +12,5 @@ the constants `cons_key`, `cons_key_secret`, `access_token`, and `access_token_s
 store your Twitter auth keys (again see the article above).
 
 Examples:
-![screen1](/screen1.png?raw=true)
-![screen2](/screen2.png?raw=true)
+![screen1](/carl-the-concede-bot/screen1.png?raw=true)
+![screen2](/carl-the-concede-bot/screen2.png?raw=true)
