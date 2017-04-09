@@ -11,6 +11,6 @@ And you can use this code too, if you like. You'll need to have a `keys.py` file
 the constants `cons_key`, `cons_key_secret`, `access_token`, and `access_token_secret`, which 
 store your Twitter auth keys (again see the article above).
 
-Examples:
+# Examples
 ![screen1](https://github.com/jhoak/carl-the-concede-bot/blob/master/screen1.PNG?raw=true)
 ![screen2](https://github.com/jhoak/carl-the-concede-bot/blob/master/screen1.PNG?raw=true)
