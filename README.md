@@ -10,3 +10,7 @@ http://blog.mollywhite.net/twitter-bots-pt2/
 And you can use this code too, if you like. You'll need to have a `keys.py` file that contains
 the constants `cons_key`, `cons_key_secret`, `access_token`, and `access_token_secret`, which 
 store your Twitter auth keys (again see the article above).
+
+Examples:
+!(/screen1.png?raw=true)
+!(/screen2.png?raw=true)
